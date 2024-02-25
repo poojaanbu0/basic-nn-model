@@ -1,7 +1,6 @@
 # Developing a Neural Network Regression Model
 
 ## AIM
-
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
@@ -70,5 +69,4 @@ Find the test data root mean squared error
 Include your sample input and output here
 
 ## RESULT
-
-Include your result here
+Thus a neural network regression model is developed for the created dataset.
