@@ -113,7 +113,6 @@ marks_data.predict(X_n1_1)
 ![image](https://github.com/poojaanbu0/basic-nn-model/assets/119390329/efcec8ef-2db6-4b3e-b258-9ea6a71ebc11)
 
 ## OUTPUT
-
 ### Training Loss Vs Iteration Plot
 
 ![image](https://github.com/poojaanbu0/basic-nn-model/assets/119390329/71022b79-c6de-48cb-b118-6febfb0bcfad)
